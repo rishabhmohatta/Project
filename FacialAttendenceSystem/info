@@ -1,0 +1,3 @@
+in thiis we use to mark attendance using face recognition
+if the student face is present in file then attendance will be marked on that day
+if the student is not present then absent will be marked and a mail will be sent to student parent
